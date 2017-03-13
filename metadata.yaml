@@ -1,5 +1,8 @@
 _repo: In-the-Carquinez-Woods_2310
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Harte, Bret
@@ -13,6 +16,8 @@ description: Harte who once rode shotgun on a stagecoach knew the prospectors, g
   and gold-hearted frontier gals who won the West. The collection of treasures, published
   in 1896 includes A Blue Grass Penelope," Left Out on Lone Star Mountain," A Ship
   of '49," An Apostle of the Tules," Devil's Ford," and A Secret of Telegraph Hill."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2310#In-the-Carquinez-Woods
 gutenberg_issued: '2006-05-17'
 gutenberg_type: Text
 identifiers:
